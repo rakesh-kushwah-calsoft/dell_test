@@ -1,0 +1,34 @@
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td{
+  border: 1px solid black;
+}
+
+th {
+  padding: 8px;
+}
+
+td{
+  padding: 4px;
+}
+
+.sort{
+  cursor: pointer;
+}
+
+.sort:hover{
+  background-color: antiquewhite;
+}
+
+.form{
+  margin: 8px;
+}
+
+.form label{
+  display: block;
+  padding-bottom: 4px;
+}
+
